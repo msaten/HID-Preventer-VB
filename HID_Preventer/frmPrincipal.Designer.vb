@@ -27,7 +27,7 @@ Partial Class Principal
         '
         'btnDispositius
         '
-        Me.btnDispositius.Location = New System.Drawing.Point(28, 66)
+        Me.btnDispositius.Location = New System.Drawing.Point(96, 68)
         Me.btnDispositius.Name = "btnDispositius"
         Me.btnDispositius.Size = New System.Drawing.Size(173, 43)
         Me.btnDispositius.TabIndex = 0
@@ -38,7 +38,7 @@ Partial Class Principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.ClientSize = New System.Drawing.Size(365, 190)
         Me.Controls.Add(Me.btnDispositius)
         Me.Name = "Principal"
         Me.Text = "HID Preventer"
